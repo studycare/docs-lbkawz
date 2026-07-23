@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gj2f33.assetshst.online/sitemap.xml
